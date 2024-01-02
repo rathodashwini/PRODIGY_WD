@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(1, 1, 49);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  #stopwatch {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  #buttons {
+    margin-top: 20px;
+  }
+  
+  button {
+    background-color: rgb(1, 1, 37);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
